@@ -1,0 +1,28 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "sample travel site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ambivalenz/travel-site.git"
+  },
+  "keywords": [
+    "udemy",
+    "sample",
+    "sites"
+  ],
+  "author": "Zachary Knitter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ambivalenz/travel-site/issues"
+  },
+  "homepage": "https://github.com/Ambivalenz/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^7.0.0"
+  }
+}
