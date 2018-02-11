@@ -1,0 +1,13 @@
+.page-section {
+  padding: .75rem 0;
+
+
+  @mixin medScreen {
+    padding: 4.5rem 0;
+  }
+
+  &--blue {
+    background-color: $mainBlue;
+    color: #fff;
+  }
+}
